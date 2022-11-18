@@ -6,6 +6,7 @@ Repository with portfolio overview of the main projects and technologies
 
 ###### Laravel projects
 - [Laravel-CQRS-Platform-API](https://github.com/Maksim1990/Laravel-CQRS-Platform-API)
+- [Laravel_Booking_API_Service](https://github.com/Maksim1990/Laravel_Booking_API_Service)
 - [Dashboard-Laravel-GraphQL-API](https://github.com/Maksim1990/Dashboard-Laravel-GraphQL-API)
 - [Laravel_Base_API_project](https://github.com/Maksim1990/Laravel_Base_API_project)
 - [Laravel_Inspire_CMS](https://github.com/Maksim1990/Laravel_Inspire_CMS)
