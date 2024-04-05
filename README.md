@@ -5,6 +5,7 @@ Repository with portfolio overview of the main projects and technologies
 ## PHP Projects
 
 ###### Laravel projects
+- [Laravel Auth Microservice for Booking service](https://github.com/Maksim1990/booking_auth_service)
 - [Laravel-CQRS-Platform-API](https://github.com/Maksim1990/Laravel-CQRS-Platform-API)
 - [Laravel_Booking_API_Service](https://github.com/Maksim1990/Laravel_Booking_API_Service)
 - [Dashboard-Laravel-GraphQL-API](https://github.com/Maksim1990/Dashboard-Laravel-GraphQL-API)
